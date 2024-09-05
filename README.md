@@ -85,3 +85,7 @@ If you have any feedback, please reach out to us at https://www.linkedin.com/in/
 ## 🛠 Skills
 Data Analysis, Data Visualization, Tableau software
 
+## 🔗 Dashboard Link
+https://public.tableau.com/app/profile/sanskar.jaiswal8012/viz/ZomatoSalesAnalysis_17253555418350/MainPage
+
+
